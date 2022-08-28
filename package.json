@@ -1,0 +1,15 @@
+{
+  "name": "28.08.2022",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel pablic/index.html --open",
+    "build": "parcel build pablic/index.html"
+  },
+  "devDependencies": {
+    "build": "^0.1.4",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
